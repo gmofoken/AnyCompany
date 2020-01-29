@@ -1,0 +1,5 @@
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.Tests.dll
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.Tests.pdb
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.csprojAssemblyReference.cache
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.dll
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.pdb

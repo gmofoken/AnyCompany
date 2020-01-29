@@ -1,0 +1,24 @@
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\bin\Debug\AnyCompany Order System.exe.config
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\bin\Debug\AnyCompany Order System.exe
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\bin\Debug\AnyCompany Order System.pdb
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.csprojAssemblyReference.cache
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\obj\Debug\AnyCompany_Order_System.Properties.Resources.resources
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.csproj.GenerateResource.cache
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.exe
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.pdb
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\obj\Debug\AnyCompany_Order_System.Form1.resources
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\bin\Debug\AnyCompany.dll
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\bin\Debug\AnyCompany.pdb
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.csproj.CopyComplete
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\bin\Debug\AnyCompany Order System.exe.config
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\bin\Debug\AnyCompany Order System.exe
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\bin\Debug\AnyCompany Order System.pdb
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\bin\Debug\AnyCompany.dll
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\bin\Debug\AnyCompany.pdb
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.csprojAssemblyReference.cache
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\obj\Debug\AnyCompany_Order_System.Form1.resources
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\obj\Debug\AnyCompany_Order_System.Properties.Resources.resources
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.csproj.GenerateResource.cache
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.csproj.CopyComplete
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.exe
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany Order System\obj\Debug\AnyCompany Order System.pdb

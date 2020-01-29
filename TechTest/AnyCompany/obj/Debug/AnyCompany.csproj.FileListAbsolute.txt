@@ -1,0 +1,10 @@
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany\obj\Debug\AnyCompany.csprojAssemblyReference.cache
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Users\Gomotso.Mofokeng\Documents\tech-test\TechTest\AnyCompany\obj\Debug\AnyCompany.pdb
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany\obj\Debug\AnyCompany.csprojAssemblyReference.cache
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Users\Gomotso.Mofokeng\Documents\AnyCompany\TechTest\AnyCompany\obj\Debug\AnyCompany.pdb
